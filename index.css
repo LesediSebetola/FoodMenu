@@ -1,0 +1,81 @@
+
+
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.logo {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 10px;
+    font-style: normal;
+    text-align: center;  
+}
+
+.logo a {
+    text-align: center;
+
+}
+
+.section1 {
+    background-image: url(pro-sid-ali-food-photography-trends-2_e5830f8b14d841ecab4f62b476497935.jpg);
+    height: 300px;
+    width: 100%;
+    margin-top: 0px;
+    
+}
+
+.section1 h1 {
+    color: white;
+    padding-top: 40px;
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+
+.section1 h3 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+
+.section img {
+    width: 250px;
+    height: 250px;
+}
+
+.section {
+    display: flex;
+    place-content: space-between;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.section p {
+    margin-top: 100px;
+}
+
+.section h4 {
+    margin-top: 100px;
+}
+
+.section2 img {
+    width: 100%;
+    padding-top: 0px;
+}
+.section2 {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+}
+.about-us {
+    padding: 50px;
+    padding-top: 0px;
+}
